@@ -194,6 +194,7 @@ style collapse
 style collapsing
 style container
 style css
+style disabled
 style dl_horizontal
 style dropdown
 style dropdown_backdrop
