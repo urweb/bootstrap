@@ -1,4 +1,2 @@
 rewrite style Bootstrap/table_ table
-
-bootstrap
-bootstrap3
+rewrite style Bootstrap/* [-]
