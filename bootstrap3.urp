@@ -7,6 +7,6 @@ rewrite style Bootstrap3/bs3_h5 h5
 rewrite style Bootstrap3/bs3_h6 h6
 rewrite style Bootstrap3/bs3_radio radio
 rewrite style Bootstrap3/bs3_show show
-rewrite style Bootstrap3/*[-]
+rewrite style Bootstrap3/* [-]
 
 bootstrap3
