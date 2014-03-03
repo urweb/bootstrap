@@ -194,6 +194,7 @@ style col_xs_9
 style collapse
 style collapsing
 style container
+style control_label
 style css
 style disabled
 style dl_horizontal
@@ -443,7 +444,7 @@ style input_sm
 style invisible
 style ir
 style jumbotron
-style label
+style bs3_label
 style label_danger
 style label_default
 style label_info
