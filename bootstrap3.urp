@@ -1,15 +1,4 @@
-rewrite style Bootstrap3/bs3_active active
-rewrite style Bootstrap3/bs3_alert alert
-rewrite style Bootstrap3/bs3_h1 h1
-rewrite style Bootstrap3/bs3_h2 h2
-rewrite style Bootstrap3/bs3_h3 h3
-rewrite style Bootstrap3/bs3_h4 h4
-rewrite style Bootstrap3/bs3_h5 h5
-rewrite style Bootstrap3/bs3_h6 h6
-rewrite style Bootstrap3/bs3_label label
-rewrite style Bootstrap3/bs3_radio radio
-rewrite style Bootstrap3/bs3_show show
-rewrite style Bootstrap3/bs3_table table
+rewrite style Bootstrap3/bs3_*
 rewrite style Bootstrap3/* [-]
 
 bootstrap3
