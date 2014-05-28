@@ -1,4 +1,4 @@
-style active
+style bs3_active
 style affix
 style bs3_alert
 style alert_danger
@@ -533,6 +533,7 @@ style bs3_show
 style sr_only
 style tab_content
 style tabbable
+style bs3_table
 style table_bordered
 style table_condensed
 style table_hover
