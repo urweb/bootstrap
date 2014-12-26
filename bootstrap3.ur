@@ -1,4 +1,8 @@
 style bs3_active
+style success
+style info
+style warning
+style danger
 style affix
 style bs3_alert
 style alert_danger
@@ -473,7 +477,7 @@ style modal_footer
 style modal_header
 style modal_open
 style modal_title
-style nav
+style bs3_nav
 style nav_justified
 style nav_pills
 style nav_stacked
@@ -562,3 +566,5 @@ style visible_xs
 style well
 style well_lg
 style well_sm
+style collapsed
+style icon_bar
