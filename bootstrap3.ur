@@ -417,6 +417,10 @@ style glyphicon_warning_sign
 style glyphicon_wrench
 style glyphicon_zoom_in
 style glyphicon_zoom_out
+style glyphicon_menu_left
+style glyphicon_menu_right
+style glyphicon_menu_up
+style glyphicon_menu_down
 style bs3_h1
 style bs3_h2
 style bs3_h3
