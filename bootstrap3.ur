@@ -27,6 +27,7 @@ style btn_info
 style btn_lg
 style btn_link
 style btn_primary
+style btn_secondary
 style btn_sm
 style btn_success
 style btn_toolbar
@@ -567,6 +568,10 @@ style visible_md
 style visible_print
 style visible_sm
 style visible_xs
+style visible_lg_block
+style visible_md_block
+style visible_sm_block
+style visible_xs_block
 style well
 style well_lg
 style well_sm
