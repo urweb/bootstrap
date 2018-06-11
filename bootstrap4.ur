@@ -577,3 +577,14 @@ style well_lg
 style well_sm
 style collapsed
 style icon_bar
+
+(* New in Bootstrap 4 *)
+
+style navbar_toggler
+style navbar_toggler_icon
+style nav_item
+style nav_link
+style navbar_expand_md
+style navbar_dark
+style fixed_top
+style bg_dark
