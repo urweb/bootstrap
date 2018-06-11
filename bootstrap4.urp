@@ -1,0 +1,4 @@
+rewrite style Bootstrap4/bs4_*
+rewrite style Bootstrap4/* [-]
+
+bootstrap4
