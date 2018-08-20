@@ -12,6 +12,16 @@ style alert_success
 style alert_warning
 style apache
 style badge
+style bg_primary
+style bg_secondary
+style bg_success
+style bg_danger
+style bg_warning
+style bg_info
+style bg_light
+style bg_dark
+style bg_white
+style bg_transparent
 style breadcrumb
 style btn
 style btn_block
@@ -43,6 +53,7 @@ style checkbox
 style checkbox_inline
 style clearfix
 style close
+style col
 style col_lg_1
 style col_lg_10
 style col_lg_11
@@ -587,4 +598,3 @@ style nav_link
 style navbar_expand_md
 style navbar_dark
 style fixed_top
-style bg_dark
