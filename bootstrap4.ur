@@ -451,7 +451,7 @@ style hidden_sm
 style hidden_xs
 style hide
 style img_circle
-style img_responsive
+style img_fluid
 style img_rounded
 style img_thumbnail
 style initialism
