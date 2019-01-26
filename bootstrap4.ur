@@ -598,3 +598,4 @@ style nav_link
 style navbar_expand_md
 style navbar_dark
 style fixed_top
+style d_none
