@@ -357,7 +357,7 @@ style glyphicon_plus_sign
 style glyphicon_print
 style glyphicon_pushpin
 style glyphicon_qrcode
-style glyphicon_question_sign
+style glyphicon_question_circle
 style glyphicon_random
 style glyphicon_record
 style glyphicon_refresh
