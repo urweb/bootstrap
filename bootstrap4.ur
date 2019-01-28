@@ -599,3 +599,7 @@ style navbar_expand_md
 style navbar_dark
 style fixed_top
 style d_none
+style card
+style card_header
+style card_body
+style card_link
