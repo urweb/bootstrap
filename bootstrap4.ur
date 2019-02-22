@@ -1,8 +1,4 @@
 style bs_active
-style text_success
-style text_info
-style text_warning
-style text_danger
 style affix
 style bs_alert
 style alert_danger
