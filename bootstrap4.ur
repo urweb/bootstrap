@@ -264,6 +264,7 @@ style glyphicon_collapse_down
 style glyphicon_collapse_up
 style glyphicon_comment
 style glyphicon_compressed
+style glyphicon_copy
 style glyphicon_copyright_mark
 style glyphicon_credit_card
 style glyphicon_cutlery
