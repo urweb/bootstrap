@@ -239,7 +239,9 @@ style glyphicon_backward
 style glyphicon_ban_circle
 style glyphicon_barcode
 style glyphicon_bell
+style glyphicon_birthday_cake
 style glyphicon_bold
+style glyphicon_bolt
 style glyphicon_book
 style glyphicon_bookmark
 style glyphicon_briefcase
@@ -289,6 +291,7 @@ style glyphicon_film
 style glyphicon_filter
 style glyphicon_fire
 style glyphicon_flag
+style glyphicon_flask
 style glyphicon_flash
 style glyphicon_floppy_disk
 style glyphicon_floppy_open
@@ -301,6 +304,7 @@ style glyphicon_font
 style glyphicon_forward
 style glyphicon_fullscreen
 style glyphicon_gbp
+style glyphicon_gear
 style glyphicon_gift
 style glyphicon_glass
 style glyphicon_globe
@@ -314,6 +318,10 @@ style glyphicon_header
 style glyphicon_headphones
 style glyphicon_heart
 style glyphicon_heart_empty
+style glyphicon_hourglass_1
+style glyphicon_hourglass_2
+style glyphicon_hourglass_3
+style glyphicon_hourglass_o
 style glyphicon_home
 style glyphicon_import
 style glyphicon_inbox
@@ -369,6 +377,7 @@ style glyphicon_resize_small
 style glyphicon_resize_vertical
 style glyphicon_retweet
 style glyphicon_road
+style glyphicon_rocket
 style glyphicon_save
 style glyphicon_saved
 style glyphicon_screenshot
@@ -430,6 +439,14 @@ style glyphicon_menu_left
 style glyphicon_menu_right
 style glyphicon_menu_up
 style glyphicon_menu_down
+style glyphicon_stack
+style glyphicon_2x
+style fas
+style fab
+style glyphicon_square
+style glyphicon_stack_1x 
+style glyphicon_stack_2x
+style glyphicon_inverse
 style bs_h1
 style bs_h2
 style bs_h3
@@ -600,3 +617,13 @@ style card
 style card_header
 style card_body
 style card_link
+style w_100
+style order_1
+style order_md_0
+style dual_collapse
+style mr_auto
+style mx_auto
+style order_0
+style order_3
+style dual_collapse2
+style ml_auto
