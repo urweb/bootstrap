@@ -359,6 +359,7 @@ style glyphicon_play
 style glyphicon_play_circle
 style glyphicon_plus
 style glyphicon_plus_sign
+style glyphicon_plus_circle
 style glyphicon_print
 style glyphicon_pushpin
 style glyphicon_qrcode
@@ -627,3 +628,5 @@ style order_0
 style order_3
 style dual_collapse2
 style ml_auto
+style text_white
+style button_group
