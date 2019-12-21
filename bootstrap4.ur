@@ -440,6 +440,7 @@ style glyphicon_menu_left
 style glyphicon_menu_right
 style glyphicon_menu_up
 style glyphicon_menu_down
+style glyphicon_question
 style glyphicon_stack
 style glyphicon_2x
 style fas
@@ -500,6 +501,7 @@ style media_heading
 style media_list
 style media_object
 style modal
+style modal_lg
 style modal_backdrop
 style modal_body
 style modal_content
