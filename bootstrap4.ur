@@ -331,6 +331,7 @@ style glyphicon_info_sign
 style glyphicon_italic
 style glyphicon_leaf
 style glyphicon_link
+style glyphicon_external_link
 style glyphicon_list
 style glyphicon_list_alt
 style glyphicon_lock
