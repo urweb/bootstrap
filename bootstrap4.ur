@@ -248,6 +248,10 @@ style glyphicon_briefcase
 style glyphicon_bullhorn
 style glyphicon_calendar
 style glyphicon_camera
+style glyphicon_caret_down
+style glyphicon_caret_up
+style glyphicon_caret_left
+style glyphicon_caret_right
 style glyphicon_certificate
 style glyphicon_check
 style glyphicon_chevron_down
