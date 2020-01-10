@@ -640,3 +640,4 @@ style ml_auto
 style text_white
 style button_group
 style mb_1
+style small
