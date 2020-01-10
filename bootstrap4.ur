@@ -496,6 +496,7 @@ style label_warning
 style lead
 style list_group
 style list_group_item
+style list_group_item_action
 style list_group_item_heading
 style list_group_item_text
 style list_inline
@@ -626,14 +627,16 @@ style card_header
 style card_body
 style card_link
 style w_100
-style order_1
 style order_md_0
 style dual_collapse
 style mr_auto
 style mx_auto
 style order_0
+style order_1
+style order_2
 style order_3
 style dual_collapse2
 style ml_auto
 style text_white
 style button_group
+style mb_1
