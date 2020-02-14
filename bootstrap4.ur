@@ -283,6 +283,8 @@ style glyphicon_eject
 style glyphicon_envelope
 style glyphicon_euro
 style glyphicon_exclamation_sign
+style glyphicon_exclamation_circle
+style glyphicon_exclamation_triangle
 style glyphicon_expand
 style glyphicon_export
 style glyphicon_eye_close
