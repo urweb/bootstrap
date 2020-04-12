@@ -234,6 +234,8 @@ style glyphicon_arrow_down
 style glyphicon_arrow_left
 style glyphicon_arrow_right
 style glyphicon_arrow_up
+style glyphicon_arrows_v
+style glyphicon_arrows_h
 style glyphicon_asterisk
 style glyphicon_backward
 style glyphicon_ban_circle
@@ -364,6 +366,7 @@ style glyphicon_picture
 style glyphicon_plane
 style glyphicon_play
 style glyphicon_play_circle
+style glyphicon_play_circle_o
 style glyphicon_plus
 style glyphicon_plus_sign
 style glyphicon_plus_circle
@@ -448,6 +451,7 @@ style glyphicon_menu_right
 style glyphicon_menu_up
 style glyphicon_menu_down
 style glyphicon_question
+style glyphicon_video_camera
 style glyphicon_stack
 style glyphicon_2x
 style fas
