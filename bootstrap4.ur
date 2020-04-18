@@ -674,3 +674,13 @@ style rounded_pill
 style tab_pane
 style table_borderless
 style table_lg
+style md_pills
+style badge_pill
+style badge_primary
+style badge_secondary
+style badge_success
+style badge_danger
+style badge_warning
+style badge_info
+style badge_light
+style badge_dark
