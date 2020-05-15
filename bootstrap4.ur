@@ -460,6 +460,9 @@ style glyphicon_square
 style glyphicon_stack_1x 
 style glyphicon_stack_2x
 style glyphicon_inverse
+style glyphicon_smile_o
+style glyphicon_frown_o
+style glyphicon_meh_o
 style bs_h1
 style bs_h2
 style bs_h3
@@ -689,3 +692,6 @@ style glyphicon_times_circle
 style glyphicon_check_circle
 style input_group_prepend
 style btn_outline_secondary
+style float_left
+style float_right
+style float_none
