@@ -360,6 +360,7 @@ style glyphicon_open
 style glyphicon_paperclip
 style glyphicon_pause
 style glyphicon_pencil
+style glyphicon_pencil_alt
 style glyphicon_phone
 style glyphicon_phone_alt
 style glyphicon_picture
@@ -454,12 +455,17 @@ style glyphicon_question
 style glyphicon_video_camera
 style glyphicon_stack
 style glyphicon_2x
+style glyphicon_lg
 style fas
 style fab
+style far
 style glyphicon_square
-style glyphicon_stack_1x 
+style glyphicon_stack_1x
 style glyphicon_stack_2x
 style glyphicon_inverse
+style glyphicon_smile
+style glyphicon_frown
+style glyphicon_meh
 style glyphicon_smile_o
 style glyphicon_frown_o
 style glyphicon_meh_o
