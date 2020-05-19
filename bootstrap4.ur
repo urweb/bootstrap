@@ -452,6 +452,7 @@ style glyphicon_menu_right
 style glyphicon_menu_up
 style glyphicon_menu_down
 style glyphicon_question
+style glyphicon_video
 style glyphicon_video_camera
 style glyphicon_stack
 style glyphicon_2x
