@@ -329,6 +329,10 @@ style glyphicon_heart_empty
 style glyphicon_hourglass_1
 style glyphicon_hourglass_2
 style glyphicon_hourglass_3
+style glyphicon_hourglass
+style glyphicon_hourglass_start
+style glyphicon_hourglass_half
+style glyphicon_hourglass_end
 style glyphicon_hourglass_o
 style glyphicon_home
 style glyphicon_import
