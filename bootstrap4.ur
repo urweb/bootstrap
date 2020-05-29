@@ -700,6 +700,7 @@ style badge_warning
 style badge_info
 style badge_light
 style badge_dark
+style glyphicon_times
 style glyphicon_times_circle
 style glyphicon_check_circle
 style input_group_prepend
