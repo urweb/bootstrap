@@ -668,12 +668,15 @@ style shadow
 style mr_0
 style shadow_none
 style px_3
+style px_5
 style text_nowrap
 style d_md_block
 style d_flex
 style justify_content_between
 style align_items_center
+style mt_2
 style mt_4
+style mt_5
 style mb_2
 style flex_column
 style ml_sm_auto
@@ -681,7 +684,9 @@ style px_4
 style h_100
 style vh_100
 style flex_wrap
+style pt_0
 style pt_3
+style pt_4
 style pb_2
 style mb_3
 style p_2
