@@ -682,6 +682,7 @@ style flex_column
 style ml_sm_auto
 style px_4
 style h_100
+style vw_100
 style vh_100
 style flex_wrap
 style pt_0
