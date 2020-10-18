@@ -669,6 +669,7 @@ style mr_0
 style shadow_none
 style px_3
 style px_5
+style py_2
 style text_nowrap
 style d_md_block
 style d_flex
