@@ -222,6 +222,7 @@ style fade
 style form_control
 style form_control_static
 style form_group
+style form_row
 style form_horizontal
 style form_inline
 style glyphicon
@@ -691,6 +692,14 @@ style pt_3
 style pt_4
 style pb_2
 style mb_3
+style pl_1
+style pl_2
+style pl_3
+style pl_4
+style pr_1
+style pr_2
+style pr_3
+style pr_4
 style p_2
 style mb_md_0
 style rounded_pill
