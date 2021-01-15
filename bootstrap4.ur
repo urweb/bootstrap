@@ -680,6 +680,7 @@ style mt_2
 style mt_4
 style mt_5
 style mb_2
+style flex_row
 style flex_column
 style ml_sm_auto
 style px_4
