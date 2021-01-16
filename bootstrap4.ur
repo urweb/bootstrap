@@ -702,6 +702,7 @@ style pr_2
 style pr_3
 style pr_4
 style p_2
+style m_0
 style mb_md_0
 style rounded_pill
 style tab_pane
@@ -721,7 +722,18 @@ style glyphicon_times
 style glyphicon_times_circle
 style glyphicon_check_circle
 style input_group_prepend
+style btn_outline_primary
 style btn_outline_secondary
 style float_left
 style float_right
 style float_none
+style d_inline_block
+style col_1
+style col_2
+style col_3
+style col_4
+style col_5
+style col_6
+style col_7
+style col_8
+
