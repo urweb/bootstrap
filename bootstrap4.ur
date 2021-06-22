@@ -559,6 +559,7 @@ style navbar_right
 style navbar_static_top
 style navbar_text
 style navbar_toggle
+style navbar_light
 style page_header
 style pager
 style pagination
@@ -640,6 +641,7 @@ style navbar_toggler_icon
 style nav_item
 style nav_link
 style navbar_expand_md
+style navbar_expand_lg
 style navbar_dark
 style fixed_top
 style d_none
