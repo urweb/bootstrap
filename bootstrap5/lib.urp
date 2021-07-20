@@ -1,0 +1,5 @@
+rewrite style Bootstrap/glyphicon* fa [-]
+rewrite style Bootstrap/bs_*
+rewrite style Bootstrap/* [-]
+
+bootstrap
