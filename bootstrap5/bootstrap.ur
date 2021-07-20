@@ -746,3 +746,16 @@ style nav_top
 style position_absolute
 style dropdown_menu_end
 style dropdown_item
+style mb_4
+style position_sticky
+style link_secondary
+style rounded
+style pb_1
+style link_dark
+style ms_sm_auto
+style px_md_4
+style p_3
+style my_4
+style mx_2
+style fw_normal
+style ps_2
