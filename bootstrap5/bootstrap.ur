@@ -740,9 +740,9 @@ style col_7
 style col_8
 style sticky_top
 style me_0
+style ms_auto
 style me_auto
 style nav_top
 style position_absolute
 style dropdown_menu_end
 style dropdown_item
-
