@@ -296,6 +296,7 @@ style glyphicon_facetime_video
 style glyphicon_fast_backward
 style glyphicon_fast_forward
 style glyphicon_file
+style glyphicon_file_alt
 style glyphicon_film
 style glyphicon_filter
 style glyphicon_fire
@@ -760,3 +761,6 @@ style my_4
 style mx_2
 style fw_normal
 style ps_2
+style ps_4
+style border_bottom
+style d_block
