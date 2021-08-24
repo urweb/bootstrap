@@ -728,8 +728,8 @@ style glyphicon_check_circle
 style input_group_prepend
 style btn_outline_primary
 style btn_outline_secondary
-style float_left
-style float_right
+style float_start
+style float_end
 style float_none
 style d_inline_block
 style col_1
