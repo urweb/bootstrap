@@ -220,6 +220,7 @@ style dropup
 style eot
 style fade
 style form_control
+style form_select
 style form_control_static
 style form_group
 style form_row
