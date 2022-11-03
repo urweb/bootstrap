@@ -618,6 +618,7 @@ style text_primary
 style text_right
 style text_success
 style text_warning
+style text_dark
 style thumbnail
 style tooltip
 style tooltip_arrow
