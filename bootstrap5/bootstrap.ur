@@ -654,6 +654,8 @@ style card_header
 style card_body
 style card_link
 style card_group
+style card_title
+style card_text
 style w_100
 style order_md_0
 style dual_collapse
