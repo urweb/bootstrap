@@ -222,6 +222,7 @@ style fade
 style form_control
 style form_select
 style form_control_static
+style form_control_sm
 style form_group
 style form_row
 style form_horizontal
@@ -648,6 +649,7 @@ style navbar_expand_md
 style navbar_expand_lg
 style navbar_dark
 style fixed_top
+style fixed_bottom
 style d_none
 style card
 style card_header
@@ -670,6 +672,7 @@ style ml_auto
 style text_white
 style button_group
 style mb_1
+style mr_2
 style small
 style flex_md_nowrap
 style p_0
