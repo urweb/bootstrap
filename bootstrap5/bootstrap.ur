@@ -23,6 +23,7 @@ style btn
 style btn_block
 style btn_danger
 style btn_default
+style btn_light
 style btn_group
 style btn_group_justified
 style btn_group_lg
@@ -609,6 +610,7 @@ style table_condensed
 style table_hover
 style table_responsive
 style table_striped
+style table_centered
 style text_center
 style text_danger
 style text_hide
