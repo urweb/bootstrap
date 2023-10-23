@@ -644,8 +644,6 @@ style icon_bar
 style  mb_0
 style  px_0
 style  pb_0
-style  mdi
-style  mdi_send
 style  m_2
 style  ms_0
 style  ms_2
