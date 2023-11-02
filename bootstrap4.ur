@@ -220,11 +220,13 @@ style dropup
 style eot
 style fade
 style form_control
+style form_control_file
 style form_control_static
 style form_group
 style form_row
 style form_horizontal
 style form_inline
+style form_row
 style glyphicon
 style glyphicon_adjust
 style glyphicon_align_center
@@ -604,6 +606,7 @@ style table_bordered
 style table_condensed
 style table_hover
 style table_responsive
+style table_sm
 style table_striped
 style text_center
 style text_danger
@@ -636,6 +639,7 @@ style icon_bar
 
 (* New in Bootstrap 4 *)
 
+style mr_auto
 style navbar_toggler
 style navbar_toggler_icon
 style nav_item
