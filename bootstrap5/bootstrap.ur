@@ -22,6 +22,7 @@ style breadcrumb
 style btn
 style btn_block
 style btn_danger
+style btn_dark
 style btn_default
 style btn_light
 style btn_group
@@ -36,6 +37,14 @@ style btn_link
 style btn_primary
 style btn_secondary
 style btn_sm
+style btn_soft_danger
+style btn_soft_dark
+style btn_soft_info
+style btn_soft_light
+style btn_soft_primary
+style btn_soft_secondary
+style btn_soft_success
+style btn_soft_warning
 style btn_success
 style btn_toolbar
 style btn_warning
@@ -698,6 +707,8 @@ style px_3
 style px_5
 style py_2
 style text_nowrap
+style text_wrap
+style text_truncate
 style d_md_block
 style d_flex
 style justify_content_between
